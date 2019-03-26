@@ -5,6 +5,8 @@ They are free for any use :)
 
 ## Profiles
 
+Over time I will pass the solutions of some solved problems in these profiles to this repository.
+
 CodeWars: https://www.codewars.com/users/pedrohcdo
 
 URI: https://www.urionlinejudge.com.br/judge/en/profile/28763
