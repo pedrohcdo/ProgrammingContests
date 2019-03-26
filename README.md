@@ -40,7 +40,7 @@ HexStatistics <3 | :+1: |  | 7/7 |
 Language| Java | Python | Difficulty
 --- | --- | --- | --- |
 CountOfSubarrays | :+1: |  | 2/7 |
-DiceThrow | :+1: | 3/7 |
+DiceThrow | :+1: |  | 3/7 |
 MinimumPPToReachD | :+1: |  | 3/7 |
 MinimumSumPartition | :+1: |  | 3/7 |
 PathsToReachOrigin | :+1: |  | 2/7 |
