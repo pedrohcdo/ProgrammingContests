@@ -16,7 +16,7 @@ GeeksForGeeks: https://auth.geeksforgeeks.org/user/pedrohcd
 ## CodeWars
 
 
-Language| Java | Python | Rust | C | C++ | JavaScript  | Go | C# | Ruby | Swift
+Language| Java | Python
 --- | --- | --- | --- |--- |--- |--- |--- |--- |--- |--- | 
 BecomeImmortal | :+1: |  |  |  |  |  |  |  |
 FebergeEasterEggs | :+1: |  |  |  |   |  |  |  |
@@ -25,7 +25,7 @@ InsaneColouredTriangles | :+1: |  |  |  |  |  |  |  |
 ## URI Online Judge
 
 
-Language| Java | Python | Rust | C | C++ | JavaScript  | Go | C# | Ruby | Swift
+Language| Java | Python
 --- | --- | --- | --- |--- |--- |--- |--- |--- |--- |--- | 
 PromDance | :+1: |  |  |  |  |  |  |  |
 PromSqrt | :+1: |  |  |  |  |  |  |  |
@@ -36,7 +36,7 @@ Spiral | :+1: |  |  |  |  |  |  |  |
 ## GeeksForGeeks
 
 
-Language| Java | Python | Rust | C | C++ | JavaScript  | Go | C# | Ruby | Swift
+Language| Java | Python
 --- | --- | --- | --- |--- |--- |--- |--- |--- |--- |--- | 
 CountOfSubarrays | :+1: |  |  |  |  |  |  |  |
 DiceThrow | :+1: |  |  |  |   |  |  |  |
