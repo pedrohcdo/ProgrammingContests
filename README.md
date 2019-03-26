@@ -17,33 +17,33 @@ GeeksForGeeks: https://auth.geeksforgeeks.org/user/pedrohcd
 
 
 Language| Java | Python
---- | --- | --- | --- |--- |--- |--- |--- |--- |--- |--- | 
-BecomeImmortal | :+1: |  |  |  |  |  |  |  |
-FebergeEasterEggs | :+1: |  |  |  |   |  |  |  |
-InsaneColouredTriangles | :+1: |  |  |  |  |  |  |  |
+--- | --- | --- |
+BecomeImmortal | :+1: |  |
+FebergeEasterEggs | :+1: |  |
+InsaneColouredTriangles | :+1: |  |
 
 ## URI Online Judge
 
 
 Language| Java | Python
---- | --- | --- | --- |--- |--- |--- |--- |--- |--- |--- | 
-PromDance | :+1: |  |  |  |  |  |  |  |
-PromSqrt | :+1: |  |  |  |  |  |  |  |
-SpaceElevator | :+1: |  |  |  |  |  |  |  |
-Eleven | :+1: |  |  |  |  |  |  |  |
-Spiral | :+1: |  |  |  |  |  |  |  |
+--- | --- | --- |
+PromDance | :+1: |  |
+PromSqrt | :+1: |  |
+SpaceElevator | :+1: |  |
+Eleven | :+1: |  |
+Spiral | :+1: |  |
 
 ## GeeksForGeeks
 
 
 Language| Java | Python
---- | --- | --- | --- |--- |--- |--- |--- |--- |--- |--- | 
-CountOfSubarrays | :+1: |  |  |  |  |  |  |  |
-DiceThrow | :+1: |  |  |  |   |  |  |  |
-MinimumPPToReachD | :+1: |  |  |  |  |  |  |  |
-MinimumSumPartition | :+1: |  |  |  |  |  |  |  |
-PathsToReachOrigin | :+1: |  |  |  |  |  |  |  |
-WordBreakV2 | :+1: |  |  |  |  |  |  |  |
+--- | --- | --- |
+CountOfSubarrays | :+1: |  |
+DiceThrow | :+1: |
+MinimumPPToReachD | :+1: |  |
+MinimumSumPartition | :+1: |  |
+PathsToReachOrigin | :+1: |  |
+WordBreakV2 | :+1: |  |
 
 Folder structure should be
 [**Language**]/[**Site**]/[**Problem**]/***file**  
