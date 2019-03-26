@@ -1,4 +1,4 @@
-# ProgrammingContests
+# Programming Contests
 
 This repository contains solutions to problems of programming contests.
 They are free for any use :)
