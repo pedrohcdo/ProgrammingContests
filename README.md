@@ -19,7 +19,7 @@ Language| Java | Python | Rust | C | C++ | JavaScript  | Go | C# | Ruby | Swift
 --- | --- | --- | --- |--- |--- |--- |--- |--- |--- |--- | 
 CountOfSubarrays | :+1: |  |  |  |  |  |  |  |
 DiceThrow | :+1: |  |  |  |   |  |  |  |
-MinimumPositivePointsToReachDestination | :+1: |  |  |  |  |  |  |  |
+MinimumPPToReachD | :+1: |  |  |  |  |  |  |  |
 MinimumSumPartition | :+1: |  |  |  |  |  |  |  |
 PathsToReachOrigin | :+1: |  |  |  |  |  |  |  |
 WordBreakV2 | :+1: |  |  |  |  |  |  |  |
@@ -29,19 +29,12 @@ WordBreakV2 | :+1: |  |  |  |  |  |  |  |
 
 Language| Java | Python | Rust | C | C++ | JavaScript  | Go | C# | Ruby | Swift
 --- | --- | --- | --- |--- |--- |--- |--- |--- |--- |--- | 
-Prom | :+1: |  |  |  |  |  |  |  |
+PromDance | :+1: |  |  |  |  |  |  |  |
+PromSqrt | :+1: |  |  |  |  |  |  |  |
 DiceThrow | :+1: |  |  |  |   |  |  |  |
 
-### List of Algorithms :
-
-* CORDIC    :    Implementation of the CORDIC algorithmalso known as Volder's algorithm, is a simple and efficient algorithm to calculate hyperbolic and trigonometric functions.
-
-* NthCombination    :    Implementation that finds the nth combination of M k by k.
-
-* CombinationIteration    :    Implementation that interacts by all combinations of N k by k.
-
 Folder structure should be
-[**Language**]/[**Algorithm name**]/**file**  
+[**Language**]/[**Site**]/[**Problem**]/***file**  
 
 
 ## License
