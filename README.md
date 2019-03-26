@@ -44,6 +44,7 @@ MinimumPPToReachD | :+1: |  |
 MinimumSumPartition | :+1: |  |
 PathsToReachOrigin | :+1: |  |
 WordBreakV2 | :+1: |  |
+HexStatistics <3 | :+1: |  |
 
 Folder structure should be
 [**Language**]/[**Site**]/[**Problem**]/***file**  
