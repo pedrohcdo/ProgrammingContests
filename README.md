@@ -6,7 +6,9 @@ They are free for any use :)
 ## Profiles
 
 **CodeWars**: https://www.codewars.com/users/pedrohcdo
+
 **URI**: https://www.urionlinejudge.com.br/judge/en/profile/28763
+
 **GeeksForGeeks**: https://auth.geeksforgeeks.org/user/pedrohcd
 
 ## CodeWars
